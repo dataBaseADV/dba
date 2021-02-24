@@ -1,0 +1,10 @@
+Users can add recipe details to the database, including images, difficulty, preparation and cooking time, ingredients, and instructions.
+Forms autocomplete category and ingredient names based on existing data
+Users can quickly edit their previously submitted recipes
+Users can create their own account. This is required for certain features
+
+
+Users can save their favourites recipes and rate other recipes
+A user page for each user that displays their submitted and favorited recipes
+Ability for users to search the database using a number of filters. Search results are sorted by average review score
+A visualize data page with interactive charts displaying recipe data
