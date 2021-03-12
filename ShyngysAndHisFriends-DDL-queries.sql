@@ -1,17 +1,25 @@
-
-CREATE TABLE Vusers
-(
-IDnum int NOT NULL,
-LastName varchar(255) NOT NULL,
-FirstName varchar(255) NOT NULL,
-Rating varchar(255) NOT NULL
+CREATE TABLE netflix_titles (
+  show_id varchar(25) n,
+  vtype varchar(25) NOT NULL,
+  title varchar(255) NOT NULL,
+  director varchar(255) not null,
+  vcast varchar(2555) not null,
+  vcountry varchar(255) not null,
+  vDate date not null,
+  vrelease_year int not null,
+  vrating varchar(25) not null,
+  vduration varchar(25) not null
 );
 
-CREATE TABLE Recipes (
-    Title varchar(255) NOT NULL,
-    Vtime int NOT NULL,
-    Servings varchar(255) NOT NULL,
-    Ingredients varchar(255) NOT NULL,
-    Instructions varchar(255) NOT NULL,
-    Image varchar(255) NOT NULL
+CREATE TABLE netflıx_user (
+  firstname varchar(25) not null,
+  lastname varchar(25) not null,
+  login varchar(25) not null,
+  vpassword varchar(25) not null,
+  userid int not null
+);
+
+CREATE TABLE favourites (
+  userid int not null,
+  showid varchar(25) not null
 );
