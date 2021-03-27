@@ -1,4 +1,4 @@
-# Ice cream recipes
+# Netflix TV-shows and Movies
 
 Link for kaggle:
 https://www.kaggle.com/shivamb/netflix-shows
