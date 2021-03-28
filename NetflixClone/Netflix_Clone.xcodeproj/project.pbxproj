@@ -482,7 +482,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1140;
-				ORGANIZATIONNAME = "JAYANTA GOGOI";
+				ORGANIZATIONNAME = YODA;
 				TargetAttributes = {
 					5DD3C196247543E200A950A0 = {
 						CreatedOnToolsVersion = 11.4.1;

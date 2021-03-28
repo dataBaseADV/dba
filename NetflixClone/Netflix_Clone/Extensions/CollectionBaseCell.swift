@@ -3,7 +3,7 @@
 //  LoaderView
 //
 //  Created by Shyngys Saktagan on 28.03.2021.
-//  Copyright © 2019 JAYANTA GOGOI. All rights reserved.
+//  Copyright © 2019 YODA. All rights reserved.
 //
 
 import UIKit

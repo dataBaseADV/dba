@@ -3,7 +3,7 @@
 //  UI_Components
 //
 //  Created by Shyngys Saktagan on 28.03.2021.
-//  Copyright © 2020 JAYANTA GOGOI. All rights reserved.
+//  Copyright © 2020 YODA. All rights reserved.
 //
 
 import UIKit
