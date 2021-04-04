@@ -35,4 +35,7 @@ https://www.kaggle.com/shivamb/netflix-shows
 7. User can registration
 
 # UML use case diagram
-![plot](/Users/onlinebankhalyk/Downloads/Shyngys_and_his_friends_uml_diagram.jpeg)
+![plot](./ShyngysAndHisFriends-UseCase-UML.png)
+
+# Connection To DateBase
+![plot](./ConnectionToDataBase.png)
