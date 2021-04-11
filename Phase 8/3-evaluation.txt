@@ -1,0 +1,14 @@
+1)
+select COUNT(*) from netflix_titles
+
+2)
+select COUNT(*) from netflix_titles
+
+3)
+|T1` = 7787|
+
+4)
+7787/1566=4.9
+
+5)
+1.3997077941894531 ms

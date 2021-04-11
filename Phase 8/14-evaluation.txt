@@ -1,0 +1,16 @@
+1)
+SELECT COUNT(*) 
+FROM (SELECT released_year,COUNT(released_year) mycount FROM netflix_titles GROUP BY released_year);
+
+2)
+SELECT COUNT(*) 
+FROM (SELECT released_year,COUNT(released_year) mycount FROM netflix_titles GROUP BY released_year);
+
+3)
+|T1` = 73|
+
+4) 
+73/73=1
+
+5)
+1.3988018035888672 ms

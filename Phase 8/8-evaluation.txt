@@ -1,0 +1,14 @@
+1)
+Select COUNT(*) from q where title like "%3%"
+
+2)
+Select COUNT(*) from q where title like "%3%"
+
+3)
+|T1` = 75|
+
+4)
+75/75=1
+
+5)
+1.6001462936401367 ms

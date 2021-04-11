@@ -1,0 +1,14 @@
+1)
+Select Count(*) from q where country = "Brazil";
+
+2)
+Select Count(*) from q where country = "Brazil";
+
+3)
+|T1` = 72|
+
+4)
+72/1=72
+
+5)
+1.1999130249023438 ms

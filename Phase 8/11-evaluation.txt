@@ -1,0 +1,14 @@
+1)
+Select count(*) from netflix_titles where vtype = "TV Show";
+
+2)
+Select count(*) from netflix_titles where vtype = "TV Show";
+
+3)
+2410
+
+4)
+2410/1=2410
+
+5)
+1.3999223709106445 ms
