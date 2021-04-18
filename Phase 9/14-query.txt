@@ -1,0 +1,12 @@
+SELECT released_year,MAX (mycount) 
+FROM (SELECT released_year,COUNT(released_year) mycount 
+FROM netflix_titles
+GROUP BY released_year);
+
+
+1)1.6998291015625 ms
+2)1.6998291015625 ms
+3)1.7999887466430664 ms
+4)1.7999887466430664 ms
+5)1.9000768661499023 ms
+Average: 1.779942512512207 ms

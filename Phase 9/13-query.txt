@@ -1,0 +1,11 @@
+SELECT rating, count(rating) 
+FROM netflix_titles 
+GROUP BY rating 
+ORDER BY count(rating)
+
+1)2.9998302459716797 ms
+2)3.099966049194336 ms
+3)3.099966049194336 ms
+4)3.099966049194336 ms
+5)3.099966049194336 ms
+Average: 3.0799388885498047 ms
